@@ -1,4 +1,10 @@
 {
-  "TEST-KEY-13": "2026-12-31",
-  "PREMIUM": "2026-07-15"
+  "TEST-KEY-13": {
+    "bitis_tarihi": "2026-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "PREMIUM": {
+    "bitis_tarihi": "2026-07-15",
+    "bilgisayar_id": "bos"
+  }
 }
