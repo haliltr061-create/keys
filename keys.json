@@ -1,10 +1,206 @@
 {
-  "TEST-KEY-13": {
-    "bitis_tarihi": "2026-12-31",
+  "GOLD-MUSTERI-1": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-2": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-3": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-4": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-5": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-6": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-7": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-8": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-9": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-10": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-11": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-12": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-13": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-14": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-15": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-16": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-17": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-18": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-19": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-20": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-21": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-22": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-23": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-24": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-25": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-26": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-27": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-28": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-29": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-30": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-31": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-32": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-33": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-34": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-35": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-36": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-37": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-38": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-39": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-40": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-41": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-42": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-43": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-44": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-45": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-46": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-47": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-48": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-49": {
+    "bitis_tarihi": "2099-12-31",
+    "bilgisayar_id": "bos"
+  },
+  "GOLD-MUSTERI-50": {
+    "bitis_tarihi": "2099-12-31",
     "bilgisayar_id": "bos"
   },
   "PREMIUM": {
-    "bitis_tarihi": "2026-07-15",
+    "bitis_tarihi": "2099-12-31",
     "bilgisayar_id": "bos"
   }
 }
