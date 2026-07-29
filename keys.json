@@ -141,15 +141,15 @@
   },
   "GOLD-MUSTERI-36": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-AF43-4A35-CBB4"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-37": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-8288-2BCE-72F3"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-38": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "FC36A880-796E-11F1-B434-80B358822100"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-39": {
     "bitis_tarihi": "2099-12-31",
@@ -157,31 +157,31 @@
   },
   "GOLD-MUSTERI-40": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-8288-2BCE"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-41": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-AF43-4A35"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-42": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-2537-26BD"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-43": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-1391-FA0B"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-44": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-2CD1-0E14"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-45": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-A269-169A"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-46": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "GOLD-0240-210D"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-47": {
     "bitis_tarihi": "2099-12-31",
@@ -189,18 +189,18 @@
   },
   "GOLD-MUSTERI-48": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "82882bce72f32007b575b2cb51bca0fe74d30ffbf26a06f9bdbbddabc3f96363"
+    "bilgisayar_id": "GOLD-8288-2BCE-72F3"
   },
   "GOLD-MUSTERI-49": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "1391fa0baaa73a244847be6f9c3b543113807b23aa725e92c1a8d285b825fb5b"
+    "bilgisayar_id": ""
   },
   "GOLD-MUSTERI-50": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "4570b24d-be08-429a-a038-03899565e65e_1774445573"
+    "bilgisayar_id": ""
   },
   "PREMIUM": {
     "bitis_tarihi": "2099-12-31",
-    "bilgisayar_id": "4570b24d"
+    "bilgisayar_id": ""
   }
 }
